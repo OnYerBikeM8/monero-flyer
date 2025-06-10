@@ -5,15 +5,15 @@
             "features": {
                 "private": "PRIVAT Transacțiile sunt complete private, fără istoric public al tranzacțiilor",
                 "low_fees": "TAXE MICI Taxe minime pe tranzacție, cu costuri eficiente chiar și pentru tranzacții mici",
-                "secure": "SIGUR: Criptografia puternică garantează siguranța fondurilor și datelor tale",
+                "secure": "SECURIZAT Criptografia puternică garantează siguranța fondurilor și datelor tale",
                 "unblockable": "NEBLOCABIL Fiecare monedă este egală, fără istoric de 'corupere' sau includere pe lista neagră",
                 "distributed": "DISTRIBUIT Rețeaua nu este controlată de nicio autoritate centrală, oferind libertate financiară adevărată"
             },
             "slogan1": "SMARTPHONE + WALLET = ACUM AI MONERO",
             "slogan2": "SIGUR PRIVAT AL TĂU",
-            "slogan3": "ADEVĂRAȚII BANI",
-            "slogan4": "FOLOSEȘTE MONERO",
-            "slogan5": "OBȚINE LIBERTATE FINANCIARĂ",
+            "slogan3": "ADEVĂRATII BANI",
+            "slogan4": "FOLOSESTE MONERO",
+            "slogan5": "OBTINE LIBERTATE FINANCIARĂ",
             "website": "www.usexmr.com"
         },
         "page2": {
@@ -23,8 +23,8 @@
                 "step2": "PASUL 2: Creează-ți portofelul și înregistrează cu atenție fraza inițială furnizată. Depozitează-l în siguranță într-un loc privat și protejat!",
                 "step3": "PASUL 3: Deschide portofelul, navighează la secțiunea 'Exchange' și introdu suma de bani pe care dorești să o schimbi în Monero (XMR). Alege metoda de plată preferată de tine (cum ar fi Card de Credit, Transfer Bancar, SEPA, etc.) și urmează pașii"
             },
-            "slogan1": "PLĂȚILE SUNT SIGURE ȘI IMUTABILE!",
-            "advantages_title": "AVANATAJE PENTRU TINE CA UTILIZATOR",
+            "slogan1": "PLĂTILE SUNT SECURIZATE ȘI IMUTABILE!",
+            "advantages_title": "AVANTAJE PENTRU TINE CA UTILIZATOR",
             "advantages": {
                 "privacy": "Confidențialitate: Orice plată este confidențială din oficiu. Plătești cu Monero așa cum plătești cu cash!",
                 "low_fees": "Taxe mici: Taxe minime pe tranzacție chiar și pentru tranzacții substanțiale!",
@@ -40,8 +40,8 @@
     "website": {
         "page_language": "Română",
         "page_title": "Folosește Monero - Obține Libertatea Financiară",
-        "page_description": "Monero este o criptomonedă sigură, privată și care nu poate fi urmărită.",
-        "page_keywords": "Monero, criptomonedă, cash digital, tranzacții sigure, libertate financiară, privată, taxe mici, nu poate fi urmărită, fungibilă, decentralizată",
+        "page_description": "Monero este o criptomonedă securizată, privată și care nu poate fi urmărită.",
+        "page_keywords": "Monero, criptomonedă, cash digital, tranzacții securizate, libertate financiară, privată, taxe mici, nu poate fi urmărită, fungibilă, descentralizată",
         "title": "Folosește<br />Monero",
         "subtitle": "<span class=\"monero-orange\">Obține</span><br />Libertate<br />Financiară",
         "download-light-pdf": "Descarcă Light PDF",
@@ -61,7 +61,7 @@
         "sort-by-best-privacy": "Confidențialitate Maximă",
         "atomic-swaps": "Atomic Swaps",
         "centralized-exchanges": "Schimburi Valutare Centralizate",
-        "decentralized-exchanges": "Schimburi Valutare Decentralizate",
+        "decentralized-exchanges": "Schimburi Valutare Descentralizate",
         "no-kyc-services": "Fără Servicii KYC",
         "kyc-light": "KYC light",
         "glossary": "Glosar",
@@ -76,7 +76,7 @@
         "glossary-term-cex": "CEX",
         "glossary-desc-cex": "Schimb Valutar Centralizat, un schimb valutar operat de o companie ai cărei clienți trebuie să își verifice identitatea",
         "glossary-term-dex": "DEX",
-        "glossary-desc-dex": "Schimb Valutar Decentralizat, un schimb valutar operat de o rețea de utilizatori ai cărei clienți nu trebuie să își verifice identitatea",
+        "glossary-desc-dex": "Schimb Valutar Descentralizat, un schimb valutar operat de o rețea de utilizatori ai cărei clienți nu trebuie să își verifice identitatea",
         "copyright": "Proiectul Comunității Monero<br />Un proiect independent, necomercial, creat de și pentru comunitatea Monero."
     }
 }
